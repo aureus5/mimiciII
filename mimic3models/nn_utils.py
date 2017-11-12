@@ -1,7 +1,7 @@
 import os
 import theano
 import theano.tensor as T
-# import lasagne
+import lasagne
 import cPickle as pickle
 import numpy as np
 
